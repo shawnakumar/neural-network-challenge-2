@@ -56,8 +56,4 @@ Several potential improvements include:
 - Tutors
 - Google Colab
 - Chat GPT
-<<<<<<< HEAD
 - Classmates
-=======
-- Classmates
->>>>>>> 27fd5686b4c544084cd5cd5409c4ae7676e1ac08
