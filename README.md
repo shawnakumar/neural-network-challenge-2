@@ -46,7 +46,6 @@ Several potential improvements include:
 - Hyperparameter tuning.
 - Regularization techniques.
 - Data augmentation for imbalanced classes.
-- Cross-validation.
 - Ensemble methods.
 - Advanced neural network architectures.
 - Transfer learning.
